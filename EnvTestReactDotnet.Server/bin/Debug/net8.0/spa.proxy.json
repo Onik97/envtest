@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:5129",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\EnvTestReactDotnet.Server\\..\\envtestreactdotnet.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

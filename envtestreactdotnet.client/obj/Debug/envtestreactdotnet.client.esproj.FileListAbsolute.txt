@@ -1,0 +1,1 @@
+A:\VS\RealTimeChat\Server\EnvTestReactDotnet\envtestreactdotnet.client\obj\Debug\envtestreactdotnet.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+sxLA6Xfz/GhQipdRaYuWTk4k1MApHhMARNRqrv/LwU=",
+  "Source": "EnvTestReactDotnet.Server",
+  "BasePath": "_content/EnvTestReactDotnet.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

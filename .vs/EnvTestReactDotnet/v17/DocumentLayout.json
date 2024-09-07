@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A4F502-E5E5-45DB-8F38-9F84F6020492}|Solution Items{34A4F502-E5E5-45DB-8F38-9F84F6020492}|A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34A4F502-E5E5-45DB-8F38-9F84F6020492}|Solution Items{34A4F502-E5E5-45DB-8F38-9F84F6020492}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCFB51E-3306-4467-9876-A0BC44F8E176}|EnvTestReactDotnet.Server\\EnvTestReactDotnet.Server.csproj|a:\\vs\\realtimechat\\server\\envtestreactdotnet\\envtestreactdotnet.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDCFB51E-3306-4467-9876-A0BC44F8E176}|EnvTestReactDotnet.Server\\EnvTestReactDotnet.Server.csproj|solutionrelative:envtestreactdotnet.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A4F502-E5E5-45DB-8F38-9F84F6020492}|Solution Items{34A4F502-E5E5-45DB-8F38-9F84F6020492}|A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{34A4F502-E5E5-45DB-8F38-9F84F6020492}|Solution Items{34A4F502-E5E5-45DB-8F38-9F84F6020492}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T23:53:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\EnvTestReactDotnet.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EnvTestReactDotnet.Server\\Properties\\launchSettings.json",
+              "ToolTip": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\EnvTestReactDotnet.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EnvTestReactDotnet.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T23:52:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "A:\\VS\\RealTimeChat\\Server\\EnvTestReactDotnet\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T23:36:33.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
